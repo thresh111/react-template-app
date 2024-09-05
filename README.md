@@ -56,6 +56,7 @@ pnpm lint
 ```
 
 ### 项目结构
+```
 react-template-app/
 │
 ├── public/ # 公共静态资源
@@ -80,3 +81,4 @@ react-template-app/
 ├── vite.config.ts # Vite 配置文件
 │
 └── package.json # 项目元数据
+```
