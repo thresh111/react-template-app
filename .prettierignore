@@ -1,0 +1,13 @@
+# Ignore artifacts:
+build
+coverage
+readme.md
+*.html
+dist/
+**/*.png
+**/*.svg
+.gitignore
+.npmignore
+.prettierignore
+.eslintignore
+commitlint.config.cjs
