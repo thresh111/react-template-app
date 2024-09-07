@@ -1,0 +1,10 @@
+.container {
+  width: 200px;
+  height: 200px;
+  .top {
+    color: red;
+  }
+  .bottom {
+    color: green;
+  }
+}
